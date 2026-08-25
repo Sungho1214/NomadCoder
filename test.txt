@@ -1,5 +1,4 @@
 test.txt
 
-this is second test - this file is still the same after
-using this command, `git pull origin main` when any branch
-is pushed and merged to the main.
+This is the second test - let's push this updated text file
+to the Test_1 branch.
